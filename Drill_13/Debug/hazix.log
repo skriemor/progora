@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\Users\Szilard\source\repos\hazix\hazix\GUI.h(107,39): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Szilard\source\repos\hazix\hazix\GUI.h(112,39): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Szilard\source\repos\hazix\hazix\GUI.h(117,39): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Szilard\source\repos\hazix\hazix\Graph.h(150,2): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Szilard\source\repos\hazix\hazix\Graph.h(150): message : while compiling class template member function 'Graph_lib::Vector_ref<Graph_lib::Rectangle>::~Vector_ref(void)'
-C:\Users\Szilard\source\repos\hazix\hazix\main.cpp(22): message : see reference to function template instantiation 'Graph_lib::Vector_ref<Graph_lib::Rectangle>::~Vector_ref(void)' being compiled
-C:\Users\Szilard\source\repos\hazix\hazix\main.cpp(22): message : see reference to class template instantiation 'Graph_lib::Vector_ref<Graph_lib::Rectangle>' being compiled
-  hazix.vcxproj -> C:\Users\Szilard\source\repos\hazix\Debug\hazix.exe
