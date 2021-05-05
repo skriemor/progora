@@ -4,7 +4,7 @@
 #include <sstream>
 #include <exception>
 //forward dec-ek
-template <class T> class S;
+template <class T> struct S;
 template<class T> std::ostream& operator<<(std::ostream& out, S<T> varo);
 template<class T> std::istream& operator>>(std::istream& in, S<T>& vari);
 
