@@ -17,7 +17,7 @@ public:
 	S(T i = { }) : val(i) {};
 
 	T& get();
-
+	T& get() const;
 	void set(T inputvalue);
 
 	T operator[](T i) const {
@@ -39,6 +39,10 @@ public:
 
 
 template<class T> T& S<T>::get() {
+	return val;
+}
+
+template<class T> T& S<T>::get() const {
 	return val;
 }
 
