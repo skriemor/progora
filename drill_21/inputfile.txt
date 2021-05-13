@@ -1,0 +1,10 @@
+egy 1 1.1
+ketto 2 2.2
+harom 3 3.3
+negy 4 4.4
+ot 5 5.5
+hat 6 6.6
+het 7 7.7
+nyolc 8 8.8
+kilenc 9 9.9
+tiz 10 10.10
